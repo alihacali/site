@@ -1,0 +1,135 @@
+*
+{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.body
+{
+    width:  100%;
+    background-image: url("back.jpeg") ;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.headerPage
+{
+    
+    height: 130px;
+    background-color: fixed;
+    background-color: #384b60;
+    
+}
+.alilogo
+{
+    width:150px;
+    height: 130px;
+    float: left; 
+    background-color: #f8f7f2;
+   
+    margin-left: 100px;
+    
+    
+}
+.headerDiv
+{
+    display: inline;
+}
+nav
+{
+    padding-left:900px ;
+}
+ul
+{
+    padding-top: 40px;
+  
+     text-align: center;
+
+}
+nav ul li
+{
+    display: inline;
+   padding-left: 25px;
+   background-color: #f8f7f2;
+   border-radius: 100px;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+   padding: 10px;
+   margin: 5px;
+   
+  
+}
+a
+{
+    text-decoration: none;
+   color:#384b60;  
+   font-size: 30px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+a:hover , a:active
+{
+    
+     color: red;;
+     height: 5px;
+}
+a:link ,a:visited
+{
+    
+    height: 500px;
+     
+}
+.bodyPage
+{
+    text-align: center;
+    width: 50%;
+ 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ali 
+{
+    margin-bottom: 70px;
+    text-align: center;
+   
+
+}
+.myName
+{
+    font-size: 50px;
+    background-color: #384b60;
+    border-radius: 40px;
+   -moz-border-radius: 40px;
+   -webkit-border-radius: 40px;
+   width: 400px;
+   display: inline-block;
+    color: #f8f7f2;
+    padding-bottom:10px ;
+
+    
+}
+.myP
+{
+
+    color:#384b60 ;
+    background-color:#f8f7f2 ;
+    border-radius: 40px;
+   -moz-border-radius: 40px;
+   -webkit-border-radius: 40px;
+   margin-top: 5px;
+   width: 150px;
+   
+  
+   
+    
+}
+.about
+{
+    color: #f8f7f2;
+    text-align: center;
+    width: 100% ;
+    background-color: #384b60;
+    margin-top: 50px;
+    height: 300px;
+    
+}
+.about h3{
+    width: 800px;
+    
+}
